@@ -8,12 +8,10 @@ This is a website that is meant to help users meet their goals. It does this by 
 
 ## Table of Contents
 
-1. [Installation](#Installation)
-2. [Usage](#Usage)
-3. [License](#License)
-4. [Contributing](#Contributing)
-5. [Tests](#Tests)
-6. [Questions](#Questions)
+1. [Usage](#Usage)
+2. [License](#License)
+3. [Contributing](#Contributing)
+4. [Questions](#Questions)
 
 ## Usage
 
@@ -25,7 +23,7 @@ None
 
 ## Contributing
 
-Corbin Spence
+[CorbinSpence](https://github.com/CorbinSpence) (Corbin Spence)
 
 [ryan-schuster](https://github.com/ryan-schuster) (Ryan Schuster)
 
